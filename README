@@ -12,4 +12,6 @@ Time Complexity:
 My algorithm is slow, and the core of it is a triple for loop.
 Big Oh (Worst Case)
 O(n^3)
-* ![Math](series.png)
+Image:
+* ![proof](series.PNG)
+***
