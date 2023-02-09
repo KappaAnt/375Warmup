@@ -13,5 +13,5 @@ My algorithm is slow, and the core of it is a triple for loop.
 Big Oh (Worst Case)
 O(n^3)
 Image:
-* ![proof](series.PNG)
+* ![proof](series.png)
 ***
