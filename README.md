@@ -14,6 +14,7 @@ My algorithm is slow, and the core of it is a triple for loop.
 //Everytime we get a possible sum we sequence to search the array of ints from + 0 to see if a sum matches an element
 Big Oh (Worst Case)
 O(n^3)
+
 Image:
 * ![proof](series.png)
 ***
