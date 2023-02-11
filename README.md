@@ -5,7 +5,7 @@ Use "make" or "make all" to compile and the executable name will be run.
 Intended input: ./run input.txt
 Will output results in "output.txt" showing every combination of sum shared in the array.
 **Extra Credit ^
-
+**There will be an extra newline "\n" at the end of the outputfile, Professor Yin stated it was ok as long as I mentioned it here.
 My input1.txt provides a large output.txt, specifically because of the 0 case.
 
 Time Complexity:
