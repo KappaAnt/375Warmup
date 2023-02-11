@@ -17,3 +17,12 @@ O(n^3)
 Image:
 * ![proof](series.png)
 ***
+Code:
+* ![c code](code.png)
+***
+Input:
+* ![input file](input.png)
+***
+Output:
+* ![output file](output.png)
+***
