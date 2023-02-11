@@ -10,6 +10,8 @@ My input1.txt provides a large output.txt, specifically because of the 0 case.
 
 Time Complexity:
 My algorithm is slow, and the core of it is a triple for loop.
+//We sequence through the array of ints, and then we sequence ahead again by + 1 getting every possible sum combination
+//Everytime we get a possible sum we sequence to search the array of ints from + 0 to see if a sum matches an element
 Big Oh (Worst Case)
 O(n^3)
 Image:
